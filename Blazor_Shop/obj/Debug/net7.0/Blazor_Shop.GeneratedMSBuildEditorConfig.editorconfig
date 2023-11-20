@@ -9,45 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Blazor_Shop
 build_property.RootNamespace = Blazor_Shop
-build_property.ProjectDir = C:\Users\Michael\Documents\GitHub\Blazor_Shop\
+build_property.ProjectDir = C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\Blazor_Shop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Michael\Documents\GitHub\Blazor_Shop
+build_property.MSBuildProjectDirectory = C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\Blazor_Shop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/App.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Pages/Counter.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/Components/DisplayError.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xEaXNwbGF5RXJyb3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Pages/FetchData.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Pages/Products.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/ProductDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Shared/SurveyPrompt.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/_Imports.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Pages/Components/DisplayProducts.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/Components/CircularProgress.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDaXJjdWxhclByb2dyZXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-tu2n45eubf
+
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Pages/Components/DisplayProducts.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xEaXNwbGF5UHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hrc4qtvr1u
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Shared/MainLayout.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-76a7f5zy0a
 
-[C:/Users/Michael/Documents/GitHub/Blazor_Shop/Shared/NavMenu.razor]
+[C:/Users/Michael/Documents/GitHub/Blazor_Full_Stack_Shop/Blazor_Shop/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ilw8wpz2ty

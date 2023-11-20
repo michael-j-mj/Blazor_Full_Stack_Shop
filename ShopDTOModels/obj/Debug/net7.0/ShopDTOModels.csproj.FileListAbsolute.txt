@@ -10,3 +10,15 @@ C:\Users\Michael\Documents\GitHub\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.d
 C:\Users\Michael\Documents\GitHub\ShopDTOModels\obj\Debug\net7.0\refint\ShopDTOModels.dll
 C:\Users\Michael\Documents\GitHub\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.pdb
 C:\Users\Michael\Documents\GitHub\ShopDTOModels\obj\Debug\net7.0\ref\ShopDTOModels.dll
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\bin\Debug\net7.0\ShopDTOModels.deps.json
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\bin\Debug\net7.0\ShopDTOModels.dll
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\bin\Debug\net7.0\ShopDTOModels.pdb
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.AssemblyInfo.cs
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.dll
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\refint\ShopDTOModels.dll
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ShopDTOModels.pdb
+C:\Users\Michael\Documents\GitHub\Blazor_Full_Stack_Shop\ShopDTOModels\obj\Debug\net7.0\ref\ShopDTOModels.dll

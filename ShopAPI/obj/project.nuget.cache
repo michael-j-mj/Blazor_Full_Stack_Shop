@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AiwSAeLeYP+scCwQGw0zAl3GtTFfG+yHy3RA6Eud25v1Nt9EOQDgnqj638BxwDThJIkuBnglYzHOu4t1EB1Gow==",
+  "dgSpecHash": "sQA8InEw/lkDHNUc1/KTlxtdgnp54TEGSHRYcNOtbGXRqHmKE8ga5AZGuUG1GzEhNxOcuS99bkUgZje9dHkzBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\Documents\\GitHub\\ShopAPI\\ShopAPI.csproj",
+  "projectFilePath": "C:\\Users\\Michael\\Documents\\GitHub\\Blazor_Full_Stack_Shop\\ShopAPI\\ShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Michael\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

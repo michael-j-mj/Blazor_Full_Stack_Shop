@@ -38,5 +38,29 @@ namespace ShopAPI.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, "Error getting data"); 
             } 
          }
+        [HttpGet("{id:int}")]
+        public async Task<ActionResult<ProductDto>> GetItem(int id)
+        {
+            try
+            {
+                var products = await _repo.GetItem(id);
+            
+                if (products == null )
+                {
+                    return BadRequest();
+                }
+                else
+                {
+                    var productCategory = await this._repo.GetCategory(products.CategoryId);
+                    var productDtos = products.ConvertToDto(productCategory);
+                    return Ok(productDtos);
+                }
+            }
+            catch (Exception)
+            {
+
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error getting data");
+            }
+        }
     }
 }

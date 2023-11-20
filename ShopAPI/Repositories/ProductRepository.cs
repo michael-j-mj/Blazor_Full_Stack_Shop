@@ -22,14 +22,16 @@ namespace ShopAPI.Repositories
 
 
 
-        Task<Product> IProductRepositories.GetItem(int id)
+       public async Task<Product> GetItem(int id)
         {
-            throw new NotImplementedException();
+                var product = await _context.Products.FindAsync(id);
+            return product;
         }
 
-        Task<ProductCategory> IProductRepositories.GetCategory(int id)
+       public async Task<ProductCategory> GetCategory(int id)
         {
-            throw new NotImplementedException();
+           var category = await _context.ProductCategories.SingleOrDefaultAsync(c => c.Id == id);
+            return category; 
         }
     }
 }

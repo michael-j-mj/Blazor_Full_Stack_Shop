@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fM04sCXHGcehTH1cZpFy2Se3hUdNqkv+4mgL1Wq9pMtsWkvzpHlnxirgaOEpD9cVumBPX1QPHK6ulOFjSsCM5g==",
+  "dgSpecHash": "Udu4GMlqBoIfwq2JMZeJUtxONg8T51E/BqvRPHm46r007nO7Hqp8IxLzFOWAMGhIF4YgkAaxHw2ChHxjZ5Gh+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael\\Documents\\GitHub\\ShopDTOModels\\ShopDTOModels.csproj",
+  "projectFilePath": "C:\\Users\\Michael\\Documents\\GitHub\\Blazor_Full_Stack_Shop\\ShopDTOModels\\ShopDTOModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

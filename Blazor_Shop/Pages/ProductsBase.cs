@@ -14,6 +14,7 @@ namespace Blazor_Shop.Pages
 
         protected override async Task OnInitializedAsync()
         {
+            //await Task.Delay(2000);
             Products = await ProductService.GetItems();
 
         }

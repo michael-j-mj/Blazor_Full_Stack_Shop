@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor_Shop", "Blazor_Shop.csproj", "{9D09A224-E606-4EE4-BA0C-A031E07F5DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor_Shop", "Blazor_Shop.csproj", "{9D09A224-E606-4EE4-BA0C-A031E07F5DBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopAPI", "..\ShopAPI\ShopAPI.csproj", "{0AF8CA47-7832-4B02-9262-779C85D7F02D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopAPI", "..\ShopAPI\ShopAPI.csproj", "{0AF8CA47-7832-4B02-9262-779C85D7F02D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopDTOModels", "..\ShopDTOModels\ShopDTOModels.csproj", "{9035550F-1093-4EB9-BB34-0B54F74552E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopDTOModels", "..\ShopDTOModels\ShopDTOModels.csproj", "{9035550F-1093-4EB9-BB34-0B54F74552E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
